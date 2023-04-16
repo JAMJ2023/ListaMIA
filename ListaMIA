@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-chn0="1",Canal LQSA24H-1 
+
+https://cdn7.lqsa.es/hls/1/stream.m3u8
+
+
+#EXTINF:-1 tvg-chn0="2" ,Canal LQSA24H-2
+
+https://cdn7.lqsa.es/hls/1/stream.m3u8
+
+
+#EXTINF:-1 tvg-chn0="3" ,Canal ANHQV24H-1
+
+https://cdn5.lqsa.es/hls/0/stream.m3u8?cachebust=56690d9d
+
+
+#EXTINF:-1 tvg-chn0="4" ,Canal ANHQV24H-2
+
+https://cdn5.lqsa.es/hls/2/stream.m3u8?cachebust=3c00c87b
+
+
+#EXTINF:-1 tvg-chn0="5" ,Canal ANHQV24H-3
+
+https://cdn5.lqsa.es/hls/stream.m3u8?cachebust=1d6e7181
+
+
+#EXTINF:-1 tvg-chn0="6" ,Canal ANHQV24H-4
+
+https://cdn5.lqsa.es/hls/2/stream.m3u8?cachebust=cc30c390
+
+
+#EXTINF:-1 tvg-chn0="7" ,Canal ANHQV24H-5
+
+https://cdn5.lqsa.es/hls/stream.m3u8?cachebust=bfbd5b9b
